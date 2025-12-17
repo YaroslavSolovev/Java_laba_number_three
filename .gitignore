@@ -1,0 +1,9 @@
+bin/
+*.class
+*.log
+*.lck
+.DS_Store
+.idea/
+*.iml
+out/
+target/
